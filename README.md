@@ -1,9 +1,9 @@
 __________
 **Statistics engineer | Data Scientist** <br> Quality & Technical manager @ Bridgestone
 
-![blog](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9&link=https://www.ensta.tech)
+[![blog](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9)](https://ensta.tech/)
 
-_____
+__________
 
 #### Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=?style=for-the-badge&logo=python&logoWidth=11) 
@@ -16,8 +16,6 @@ _____
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=?style=for-the-badge&logo=PyTorch&logoWidth=11)
 
 _____
-
-
 
 
 <!--
