@@ -18,15 +18,15 @@ _____
 [![blog](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9)](https://ensta.tech/)
 
 
-<!--
 
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [SPC. Рациональная выборка](https://www.ensta.tech/post/rational_sampling)
 - [SPC. Модель процесса, общие и особые причины](https://www.ensta.tech/post/spc_lvl2)
 - [SPC. История и общая идея](https://www.ensta.tech/post/spc_lvl1)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
