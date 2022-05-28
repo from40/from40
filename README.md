@@ -1,7 +1,7 @@
 __________
 **Statistics engineer | Data Scientist** <br> Quality & Technical manager @ Bridgestone
 
-![Flutter](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9&link=http://ensta.tech&link=http://ensta.tech) 
+[![ensta.tech](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9)](http://ensta.tech)
 
 _____
 
