@@ -1,5 +1,6 @@
 __________
-**Engineering statistics | Design of experiment | Data analysis** <br> Quality & Technical manager @ Bridgestone
+**Engineering statistics | Design of experiment | Data analysis** 
+<br> Quality & Technical manager @ Bridgestone
 
 __________
 
