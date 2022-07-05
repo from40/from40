@@ -1,5 +1,5 @@
 __________
-**Statistics engineer | Data Scientist** 
+**Engineering statistics | Design of experiment | Data analysis** <br> Quality & Technical manager @ Bridgestone
 
 __________
 
@@ -17,10 +17,7 @@ _____
 
 [![blog](https://img.shields.io/badge/_42-ensta.tech-F1F1F1?style=flat&logo=/e/&logoWidth=9)](https://ensta.tech/)
 
-
-
-
-<!-- BLOG-POST-LIST:START 
+<!-- BLOG-POST-LIST:START -->
 - [SPC. Рациональная выборка](https://www.ensta.tech/post/rational_sampling)
 - [SPC. Модель процесса, общие и особые причины](https://www.ensta.tech/post/spc_lvl2)
 - [SPC. История и общая идея](https://www.ensta.tech/post/spc_lvl1)
